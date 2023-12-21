@@ -1,10 +1,10 @@
 # Node.js dependencies
-/node_modules/      # Excluded to prevent versioning Node.js dependencies
-package-lock.json  # Excluded to prevent versioning the package lock file
+/node_modules/
+package-lock.json
 
 # Compiled and generated files
-public/css/input.css  # Excluded to prevent versioning compiled CSS files
+public/css/input.css
 
 # Composer dependencies
-/vendor/       # Excluded to prevent versioning Composer dependencies
-composer.lock  # Excluded to prevent versioning the Composer lock file
+/vendor/
+composer.lock
