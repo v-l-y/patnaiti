@@ -1,0 +1,19 @@
+{
+  "name": "varun/patnaiti",
+  "description": "ITI Institute Website - A simple website built with PHP, HTML, and Tailwind CSS.",
+  "type": "project",
+  "autoload": {
+    "psr-4": {
+      "Varun\\Patnaiti\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "VLY",
+      "email": "varunlal505@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "^8.2.4"
+  }
+}
